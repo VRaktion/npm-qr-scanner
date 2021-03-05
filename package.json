@@ -1,0 +1,23 @@
+{
+  "name": "@vraktion/qr-scanner",
+  "version": "0.0.1",
+  "peerDependencies": {
+    "@angular/common": "^11.2.0",
+    "@angular/core": "^11.2.0",
+    "@capacitor/core": "^2.4.7",
+    "@dutchconcepts/capacitor-barcode-scanner": "^1.1.1",
+    "rxjs": "^6.6.6"
+  },
+  "dependencies": {
+    "tslib": "^2.0.0"
+  },
+  "devDependencies": {
+    "@capacitor/core": "^2.4.7",
+    "@dutchconcepts/capacitor-barcode-scanner": "^1.1.1",
+    "rxjs": "^6.6.6"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/vraktion/npm-qr-scanner.git"
+  }
+}
